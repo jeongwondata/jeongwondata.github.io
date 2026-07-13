@@ -1,5 +1,1 @@
-# Data Scientist
 
-### Education
-
-### Projects
